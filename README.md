@@ -1,6 +1,6 @@
 ## A pentesting hub for recon and PoCs - Tested on Kali Linux
 
-> An improved Python version is under development!
+> Older version made in Shell Script - kept in here for legacy.
   
 ### # Installation:  
 Copy the command below and paste it into your Kali terminal
